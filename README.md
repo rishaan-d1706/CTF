@@ -12,7 +12,7 @@ You can download the puzzles and their files by clicking the Large green button 
 
 ## Submitting!
 
-You can submit the puzzles by using this [https://forms.office.com/r/PqDycfnTx0](Microsoft Form). Please submit using a valid Plaksha ID that is registered in the event.
+You can submit the puzzles by using this [Microsoft Form](https://forms.office.com/r/PqDycfnTx0). Please submit using a valid Plaksha ID that is registered in the event.
 
 ## Hints
 
