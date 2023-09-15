@@ -6,6 +6,8 @@ All the puzzles for the CTF are present in this repository (set of code).
 
 *It is okay if you don't get all the answers! You win if you submit the **most** puzzles in the **least** time, using as little hints as possible.*
 
+Internet use is allowed!
+
 ## Doing the puzzles!
 
 You can download the puzzles and their files by clicking the Large green button on the Top Right. If you have worked with GitHub before, you can also clone this repository.
