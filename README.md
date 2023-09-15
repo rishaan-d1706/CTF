@@ -16,7 +16,7 @@ You can download the puzzles and their files by clicking the Large green button 
 
 Submission is *PUZZLE WISE*. You don't have to wait to submit all the puzzles!
 
-You can submit the puzzles by using this [Microsoft Form](https://forms.office.com/r/PqDycfnTx0). Please submit using a valid Plaksha ID that is registered in the event.
+You can submit the puzzles by using this [Microsoft Form](https://forms.office.com/r/PqDycfnTx0). Please submit using a valid Plaksha ID that is registered in the event. **Flags are case-sensitive.**
 
 **SUBMIT A FLAG AS SOON AS YOU ARE DONE WITH A PUZZLE, DON'T WAIT TO SUBMIT FLAGS TILL THE END!!!** You score higher if you have more valid submissions in a lower amount of time. 
 
